@@ -1,2 +1,1 @@
-# clustering
-Clustering
+# Clustering practicals
